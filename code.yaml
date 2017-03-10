@@ -1,0 +1,161 @@
+---
+# batch
+- .bat
+
+# C
+- .c
+
+# Clojure
+- .clj
+
+# COBOL
+- .cbl
+- .cob
+
+# CoffeScript
+- .coffesscript
+
+# C++
+- .cpp
+- .cs
+
+# Elixir
+- .ex
+- .exs
+
+# Erlang
+- .erl
+- .hrl
+
+# Genie
+- .gs
+
+# Graphviz
+- .dot
+
+#
+- .env
+
+- .fs
+- .fsx
+
+# Golang
+- .go
+# Groovy
+- .groovy
+
+# Haskell
+- .hs
+- .lhs
+
+# Java
+- .java
+
+# JavaScript
+- .js
+- .jsx
+
+## ECMAScript
+- .es
+
+## TypeScript
+- .ts
+
+# Julia
+- .jl
+
+# Kotlin
+- .kt
+- .kts
+
+# Lisp
+- .lisp
+- .lsp
+
+# Lua
+- .lua
+
+# MATLAB
+- .m
+
+# Objective C
+- .h
+- .mm
+- .C
+
+# OCaml
+- .ml
+- .mli
+
+# Pascal
+- .pp
+- .pas
+- .inc
+
+# Perl
+- .pl
+- .p6
+- .pl6
+- .pm6
+
+# PHP
+- .php
+- .php5
+
+# Prolog
+- .P
+- .pro
+
+# Python
+- .py
+
+# R
+- .R
+- .RData
+- .r
+- .rda
+- .rds
+
+# Racket
+- .rkt
+
+# Ruby
+- .erb
+- .rb
+
+# Rust
+- .rs
+- .rlib
+
+# Scala
+- .scala
+- .sc
+
+# Scheme
+- .scm
+- .ss
+
+# shell
+## bash
+- .bash
+- .sh
+
+## fish
+- .fish
+
+## zsh
+- .zsh
+
+# Swift
+- .swift
+
+# Tcl/Tk
+- .tcl
+- .tbc
+
+# Turing
+- .T
+- .t
+- .tu
+
+- .zcml

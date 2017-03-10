@@ -1,0 +1,9 @@
+---
+- .conf
+- .config
+- .cnf
+- .cfg
+- .ini
+- .properties
+- .yaml
+- .vcl
