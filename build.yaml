@@ -1,0 +1,39 @@
+# golang
+## glide
+- '*glide.lock'
+## Glock
+- '*GLOCKFILE'
+## godep
+- '*Godeps.json'
+## govendor
+- '*vendor.json'
+## gvt
+- '*manifest'
+
+# Ruby
+- '*Gemfile'
+- '*Gemfile.lock'
+## Capistrano
+- '*Capfile'
+## Guard
+- '*Guardfile'
+## Rake
+- '*Rakefile'
+- .rake
+# Thor
+- '*Thorfile'
+
+# Rust
+## Cargo
+- '*Cargo.toml'
+
+# Make
+- '*Makefile'
+- '*makefile'
+- .mk
+
+# nodejs
+## npm
+- '*package.json'
+## yarn
+- '*yarn.lock'

@@ -2,22 +2,33 @@
 # batch
 - .bat
 
+# C++
+- .H
+- .c++
+- .cc
+- .cpp
+- .cs
+- .cxx
+- .h++
+- .hh
+- .hxx
+- .hpp
+
 # C
 - .c
+- .h
 
 # Clojure
 - .clj
+- .cljs
 
 # COBOL
 - .cbl
 - .cob
 
-# CoffeScript
-- .coffesscript
-
-# C++
-- .cpp
-- .cs
+# CoffeeScript
+- .coffee
+- .litcoffee
 
 # Elixir
 - .ex
@@ -36,11 +47,13 @@
 #
 - .env
 
+# F#
 - .fs
 - .fsx
 
 # Golang
 - .go
+
 # Groovy
 - .groovy
 
@@ -54,10 +67,8 @@
 # JavaScript
 - .js
 - .jsx
-
 ## ECMAScript
 - .es
-
 ## TypeScript
 - .ts
 
@@ -79,7 +90,6 @@
 - .m
 
 # Objective C
-- .h
 - .mm
 - .C
 
@@ -139,10 +149,14 @@
 ## bash
 - .bash
 - .sh
-
+## C shell
+- .csh
 ## fish
 - .fish
-
+## Korn
+- .ksh
+## tcsh
+- .tcsh
 ## zsh
 - .zsh
 
@@ -158,4 +172,5 @@
 - .t
 - .tu
 
+# Zope Configuration Mark-up Language
 - .zcml

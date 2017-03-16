@@ -1,40 +1,70 @@
 ---
 # 7-Zip
 - .7z
+
 - .Z
 - .ace
 - .alz
+
+# Android
 - .apk
+
 - .arc
 - .arj
 - .b1
+
+# bzip2
 - .bz
 - .bz2
 - .bzip2
+
 - .cab
 - .cfs
 - .cpio
-- .dar
+
+# Debian packages
 - .deb
+- .udeb
+
+# Disk Archive
+- .dar
+
 - .dmg
 - .dz
-# Enterprise Java Archive
+
+# Java
+## Enterprise Java Archive
 - .ear
+## Java ARchive
+- .jar
+## Web application ARchive
+- .war
+
+# RubyGems
 - .gem
+
+# gzip
 - .gz
 - .ha
 - .iso
-- .jar
 - .lz
 - .lzh
 - .lzo
 - .lzma
+
 # PeaZip
 - .pea
+
+# WinRAR
 - .rar
+
+# RPM Package Manager
 - .rpm
+
 - .rz
 - .s7z
+
+# Tarball formats
 - .tar
 - .taz
 - .tbz
@@ -43,8 +73,8 @@
 - .tlz
 - .txz
 - .tz
-- .war
 - .xz
+
 - .z
 - .zip
 - .zoo

@@ -5,9 +5,6 @@
 - .ttl
 - .nt
 - .torrent
-- '*Makefile'
-- '*makefile'
-- '*Rakefile'
 - '*build.xml'
 - '*rc'
 - .nfo
@@ -26,4 +23,3 @@
 - '*VERSION'
 - '*NOTICE'
 - '*CHANGES'
-- .cc
