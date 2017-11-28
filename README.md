@@ -1,6 +1,6 @@
 # dirchromatic-types
 
-This is a ``types`` repository for bootstrapping your ``.dircolors`` file generation, using [dirchromatic](https://github.com/Enflick/dirchromatic).
+This is a ``types`` repository for bootstrapping your ``.dircolors`` file generation, using [dirchromatic](https://github.com/karlding/dirchromatic).
 
 ## Usage
 
